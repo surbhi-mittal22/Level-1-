@@ -1,2 +1,8 @@
 # Level-1-
-this is the github repository for level1 - fork it through your own github account and submit code there 
+welcome to side projects 
+
+this is the github repository for everybody who is submitting their code related to the first assignment 
+
+fork it from your github account and submit you code 
+
+cheers! 
